@@ -1,4 +1,5 @@
-# style.py — Light Mode Premium Design System
+# style.py — Light Mode Premium Design System 
+# Visual design system and CustomTkinter layout styling by Matthew
 import customtkinter as ctk
 
 ctk.set_appearance_mode("light")
