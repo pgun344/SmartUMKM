@@ -1,4 +1,5 @@
 # database.py
+## Core database layer structured by Janssen
 import sqlite3, os
 from datetime import date
 from typing import List, Dict, Optional
