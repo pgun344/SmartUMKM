@@ -1,4 +1,5 @@
 # transaction.py — Premium v2
+# Modifikasi struktur halaman transaksi oleh Philip
 import tkinter as tk
 import customtkinter as ctk
 from datetime import date, datetime
