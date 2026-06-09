@@ -1,4 +1,5 @@
 # dashboard.py — Premium Dashboard v2
+## Core interactive merchant view structured by Jovin
 import tkinter as tk
 import customtkinter as ctk
 from datetime import date
